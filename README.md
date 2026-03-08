@@ -1,31 +1,70 @@
-## 👋 Hi, I'm @PMWorld-15292
+# Hi, I'm Pallavi 👋
 
-Welcome to my GitHub! I'm an aspiring AI/ML developer with a strong foundation in machine learning principles and a growing portfolio of hands-on projects. I'm actively seeking opportunities to contribute to innovative AI teams and collaborate on impactful solutions.
+> *Building intelligent systems at the intersection of Classical ML, Deep Learning, and NLP.*
 
-### 🎯 What I bring to the table:
-- 📚 Solid understanding of ML algorithms, data preprocessing, and model evaluation
-- 🧠 Experience with Python, scikit-learn, TensorFlow
-- 🔍 Passion for solving real-world problems through intelligent systems
-- 🛠️ Currently building modular ML components for scalable deployment
+I'm a Machine Learning engineer with hands-on experience across the full ML stack — from statistical modeling to fine-tuning large language models. I'm actively building my research portfolio and looking for opportunities where I can ship impactful AI systems.
 
-### 🌱 What I'm learning:
-- Advanced deep learning architectures (CNNs, RNNs, Transformers)
-- MLOps and model lifecycle management
-- Responsible AI and fairness in machine learning
+---
 
-### 🤝 What I'm looking for:
-- Internship or junior roles in AI/ML development
-- Open-source collaborations with experienced mentors
-- Teams focused on ethical, inclusive, and cutting-edge AI solutions
+## 🧠 What I Work On
 
-### 😄 Pronouns:
-She/her
+| Area | Tools & Frameworks |
+|---|---|
+| **Classical ML** | scikit-learn, XGBoost, statsmodels, pandas, numpy |
+| **Deep Learning** | PyTorch, TensorFlow/Keras, ONNX |
+| **NLP / LLMs** | HuggingFace Transformers, LangChain, PEFT, LoRA |
+| **Experimentation** | MLflow, Weights & Biases, Optuna |
+| **Deployment** | FastAPI, Docker, Gradio, Streamlit |
 
-### ⚡ Fun fact:
-I built a GenAI chatbot that not only answers questions—but also throws in dad jokes when it senses the user’s getting bored. It’s basically a stand-up comedian with a neural net 😄
+---
 
+## 🚀 Featured Projects
 
+### 🔬 [Project Name 1](./projects/project-1)
+> *Classical ML · Tabular Data*
 
+End-to-end ML pipeline with feature engineering, model selection, and interpretability analysis using SHAP.  
+`scikit-learn` `XGBoost` `SHAP` `pandas`
 
-> This repository is ✨ special ✨ because its `README.md` appears on my GitHub profile.  
-> If you're an AI recruiter or hiring manager, feel free to explore my projects or reach out—I'd love to connect!
+---
+
+### 🤖 [Project Name 2](./projects/project-2)
+> *Deep Learning · PyTorch*
+
+Custom neural network architecture trained from scratch with ablation studies and training diagnostics.  
+`PyTorch` `WandB` `NumPy` `Matplotlib`
+
+---
+
+### 💬 [Project Name 3](./projects/project-3)
+> *NLP · LLMs · Fine-tuning*
+
+Fine-tuned a pre-trained language model using PEFT/LoRA on a domain-specific dataset with evaluation benchmarks.  
+`HuggingFace` `PEFT` `LoRA` `datasets` `evaluate`
+
+---
+
+## 📊 Research Interests
+
+- **Efficient fine-tuning** of large language models (LoRA, QLoRA, adapters)
+- **Model interpretability** — understanding what models actually learn
+- **Bridging classical stats and deep learning** — when to use what and why
+
+---
+
+## 📈 Currently Learning / Working On
+
+- [ ] Reproducing a paper from scratch (see [`paper-reproductions/`](./paper-reproductions))
+- [ ] Building an end-to-end NLP pipeline with evaluation harness
+- [ ] Exploring structured prediction and sequence labeling
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:you@email.com)
+
+---
+
+<p align="center"><i>"The goal is not to fit the data — it's to understand the process that generated it."</i></p>
